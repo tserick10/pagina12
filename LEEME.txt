@@ -1,9 +1,0 @@
-CARTA PARA VALERIA — versión con foto incluida
-
-1. Extrae el ZIP.
-2. Abre index.html con Chrome, Edge o cualquier navegador.
-3. Haz clic en el sobre para abrir la carta.
-4. Al terminar el texto, aparecerá la foto incluida.
-
-La foto está incorporada dentro del HTML, por lo que no hace falta mantener un archivo de imagen separado.
-Para compartir la página por internet con un enlace, tendrás que subir el HTML a un servicio de alojamiento web como GitHub Pages.
